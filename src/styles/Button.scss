@@ -3,6 +3,10 @@
   height: 3rem;
   border-radius: 2rem;
   cursor: pointer;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .active {
   background-color: $black;
